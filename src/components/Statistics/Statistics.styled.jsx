@@ -4,11 +4,12 @@ export const FeedbackGood = styled.div`
     background-color: green;
     color: white;
 `
+
 export const FeedbacknNeutral = styled.div`
     background-color: gray;
     color: white;
-}
 `
+
 export const FeedbackBad = styled.div`
     background-color: red;
     color: white;
